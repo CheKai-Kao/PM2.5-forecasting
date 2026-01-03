@@ -5,4 +5,4 @@
 ![iTransformer Architecture](images/architecture.svg)
 
 <!-- 如果圖片太大，可以使用 HTML 控制寬度 -->
-<img src="images/architecture.svg" width="100%">
+<img src="images/architecture.svg" width="50%">
